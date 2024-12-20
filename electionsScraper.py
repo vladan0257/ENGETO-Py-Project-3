@@ -120,9 +120,6 @@ def getAllVotingData(url: str) -> dict:
 #===================================================================================================
 def main():
 
-    # defaultUrl = 'https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ'
-    # userUrl = 'https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103'
-    
     print('Ziskavam seznam dostupnych odkazu...')
     urlsList = getUrlsList()
 
