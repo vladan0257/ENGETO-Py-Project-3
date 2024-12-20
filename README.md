@@ -9,7 +9,7 @@ In the command line type-in: <br />
 python electionsScraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103" vysledky_kladno.csv <br /><br />
 ![term1](https://github.com/user-attachments/assets/0dc71f93-8137-436a-b3d1-08887d694fb5)<br /><br />
 You will get results from the area called Kladno. For all other available regions, the URL is always behind the 2nd cross-check field. Click on it, copy-paste the adress into your command line and add name of the file. <br /><br />
-![chooseRegion](https://github.com/user-attachments/assets/3de4ce8b-2bc6-4c37-b2fa-ea1f554411fe)
+![chooseRegion](https://github.com/user-attachments/assets/be092d7a-001d-4dd9-b749-3323eac221e5)
  <br />
 
 **SCRIPT PROGRESS REMARKS:**	<br />
