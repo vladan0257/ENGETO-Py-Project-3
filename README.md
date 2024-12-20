@@ -7,11 +7,13 @@ Before initiating the script, make sure all Python libraries are at your disposa
 **INITIATION OF THE SCRIPT:**	<br />
 In the command line type-in: <br />
 python electionsScraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103" vysledky_kladno.csv <br />
-![term1](https://github.com/user-attachments/assets/0dc71f93-8137-436a-b3d1-08887d694fb5)<br />
-You will get results from the area called Kladno. For all other available regions, the URL is always behind the 2nd cross-check field. Click on it, copy-paste the adress into your command line and add name of the file. <br />
+![term1](https://github.com/user-attachments/assets/0dc71f93-8137-436a-b3d1-08887d694fb5) <br />
+You will get results from the area called Kladno. For all other available regions, the URL is always behind the 2nd cross-check field. Click on it, copy-paste the adress into your command line and add the name of the file. <br />
 ![chooseRegion](https://github.com/user-attachments/assets/be092d7a-001d-4dd9-b749-3323eac221e5)
  <br />
 
 **SCRIPT PROGRESS REMARKS:**	<br />
 ![term2](https://github.com/user-attachments/assets/9efd4aff-8c3e-44a0-8a1e-8d89e1594165)
 
+**THE OUTPUT:**	<br />
+![output](https://github.com/user-attachments/assets/583860e9-eecd-4304-ae9a-4311c415f4bf)
