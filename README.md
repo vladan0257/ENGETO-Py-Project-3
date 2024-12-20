@@ -13,7 +13,5 @@ You will get results from the area called Kladno. For all other available region
  <br />
 
 SCRIPT PROGRESS REMARKS:	<br />
-Ziskavam seznam dostupnych odkazu... <br />
-Zpracovavam data z Vasi URL adresy... <br />
-Zapisuji do souboru vysledky_kladno.csv a ukladam... <br />
-Ukoncuji electionsScraper.py. <br />
+![term2](https://github.com/user-attachments/assets/9efd4aff-8c3e-44a0-8a1e-8d89e1594165)
+
