@@ -4,7 +4,7 @@ The script electionsScraper.py serves as an tool for collecting and downloading 
 EXAMPLE OF THE COMMAND:	<br />
 python electionsScraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103" vysledky_kladno.csv <br />
 
-FOLLOWING PROGRESS REMARKS:	<br />
+SCRIPT PROGRESS REMARKS:	<br />
 Ziskavam seznam dostupnych odkazu... <br />
 Zpracovavam data z Vasi URL adresy... <br />
 Zapisuji do souboru vysledky_kladno.csv a ukladam... <br />
